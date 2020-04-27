@@ -26,7 +26,7 @@ $ git clone https://github.com/mdcj1234/Codenation-Java.git
 $ sudo dpkg --install java-1.8.0-amazon-corretto-jdk_8.212.04-2_amd64.deb
 ```
 
-## Authors
+## Autores
 
 * **Márcio Jr** - (https://www.linkedin.com/in/marciojr1994/)
 

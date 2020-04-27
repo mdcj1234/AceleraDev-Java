@@ -28,7 +28,7 @@ $ sudo dpkg --install java-1.8.0-amazon-corretto-jdk_8.212.04-2_amd64.deb
 
 ## Authors
 
-* **Márcio Jr** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Márcio Jr** - (https://www.linkedin.com/in/marciojr1994/)
 
 ## License
 
@@ -37,4 +37,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Agradecimentos
 
 * Equipe da Codenation
-

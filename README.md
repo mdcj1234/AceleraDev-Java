@@ -3,8 +3,7 @@
 A codenation oferece Programas de aceleração gratuitos para devs e cientistas de dados.
 https://www.codenation.dev/
 
-Esse repositório armazena os códigos dos desafios feitos em Java durante o meu desenvolvimento utilizando a IDE IntelliJ
-https://www.jetbrains.com/idea/
+Esse repositório armazena os códigos dos desafios feitos em Java durante o meu desenvolvimento na aceleração.
 
 ## Como utilizar
 

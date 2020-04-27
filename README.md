@@ -1,9 +1,9 @@
-# Repositório para aceleração codenation Java
+# Codenation Java
+
+Esse repositório armazena os códigos dos desafios feitos em Java durante o meu desenvolvimento na aceleração da Codenation.
 
 A codenation oferece Programas de aceleração gratuitos para devs e cientistas de dados.
 https://www.codenation.dev/
-
-Esse repositório armazena os códigos dos desafios feitos em Java durante o meu desenvolvimento na aceleração.
 
 ## Como utilizar
 

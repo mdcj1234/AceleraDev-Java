@@ -7,7 +7,7 @@ https://www.codenation.dev/
 
 ## Como utilizar
 
-Fique à vontade para sugerir melhorias nos códigos do projeto. Será muito bem vinda.
+Fique à vontade para sugerir melhorias nos códigos do projeto.
 
 ### Pré-requisitos
 

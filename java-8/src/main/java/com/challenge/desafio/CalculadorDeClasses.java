@@ -10,41 +10,41 @@ public class CalculadorDeClasses implements Calculavel {
     @Override
     public BigDecimal somar(Object o) {
 
-        BigDecimal soma = BigDecimal.ZERO;
+        BigDecimal totalizador = BigDecimal.ZERO;
 
         for(Field field : o.getClass().getDeclaredFields()) {
             field.setAccessible(true);
             if(field.isAnnotationPresent(Somar.class) && field.getType().equals(BigDecimal.class)){
 
                 try {
-                    soma = soma.add((BigDecimal) field.get(o));
+                    totalizador = totalizador.add((BigDecimal) field.get(o));
                 } catch (IllegalAccessException e) {
                     e.printStackTrace();
                 }
             }
         }
 
-        return soma;
+        return totalizador;
     }
 
     @Override
     public BigDecimal subtrair(Object o) {
 
-        BigDecimal soma = BigDecimal.ZERO;
+        BigDecimal totalizador = BigDecimal.ZERO;
 
         for(Field field : o.getClass().getDeclaredFields()) {
             field.setAccessible(true);
             if(field.isAnnotationPresent(Subtrair.class) && field.getType().equals(BigDecimal.class)){
 
                 try {
-                    soma = soma.add((BigDecimal) field.get(o));
+                    totalizador = totalizador.add((BigDecimal) field.get(o));
                 } catch (IllegalAccessException e) {
                     e.printStackTrace();
                 }
             }
         }
 
-        return soma;
+        return totalizador;
     }
 
     @Override

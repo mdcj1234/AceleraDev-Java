@@ -1,0 +1,349 @@
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] -------------------< com.challenge:spring-data-ddl >--------------------
+[INFO] Building spring-data-ddl 0.0.1-SNAPSHOT
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- maven-resources-plugin:3.1.0:resources (default-resources) @ spring-data-ddl ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] Copying 1 resource
+[INFO] Copying 0 resource
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.8.1:compile (default-compile) @ spring-data-ddl ---
+[INFO] Changes detected - recompiling the module!
+[INFO] Compiling 9 source files to /home/mdcj/codenation/java-9/target/classes
+[INFO] 
+[INFO] --- maven-resources-plugin:3.1.0:testResources (default-testResources) @ spring-data-ddl ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory /home/mdcj/codenation/java-9/src/test/resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.8.1:testCompile (default-testCompile) @ spring-data-ddl ---
+[INFO] Changes detected - recompiling the module!
+[INFO] Compiling 12 source files to /home/mdcj/codenation/java-9/target/test-classes
+[INFO] /home/mdcj/codenation/java-9/src/test/java/com/challenge/suite/ClassTest.java: /home/mdcj/codenation/java-9/src/test/java/com/challenge/suite/ClassTest.java uses unchecked or unsafe operations.
+[INFO] /home/mdcj/codenation/java-9/src/test/java/com/challenge/suite/ClassTest.java: Recompile with -Xlint:unchecked for details.
+[INFO] 
+[INFO] --- maven-surefire-plugin:2.22.2:test (default-test) @ spring-data-ddl ---
+[INFO] 
+[INFO] -------------------------------------------------------
+[INFO]  T E S T S
+[INFO] -------------------------------------------------------
+[INFO] Running com.challenge.suite.ChallengeTestSuite
+11:35:53.757 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mdcj/codenation/java-9/target/classes/
+11:35:53.819 [main] INFO org.reflections.Reflections - Reflections took 57 ms to scan 1 urls, producing 4 keys and 16 values 
+11:35:53.899 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mdcj/codenation/java-9/target/classes/
+11:35:53.903 [main] INFO org.reflections.Reflections - Reflections took 3 ms to scan 1 urls, producing 4 keys and 16 values 
+11:35:53.907 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mdcj/codenation/java-9/target/classes/
+11:35:53.911 [main] INFO org.reflections.Reflections - Reflections took 4 ms to scan 1 urls, producing 4 keys and 16 values 
+11:35:53.914 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mdcj/codenation/java-9/target/classes/
+11:35:53.921 [main] INFO org.reflections.Reflections - Reflections took 6 ms to scan 1 urls, producing 4 keys and 16 values 
+11:35:53.923 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mdcj/codenation/java-9/target/classes/
+11:35:53.926 [main] INFO org.reflections.Reflections - Reflections took 3 ms to scan 1 urls, producing 4 keys and 16 values 
+11:35:53.937 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mdcj/codenation/java-9/target/classes/
+11:35:53.941 [main] INFO org.reflections.Reflections - Reflections took 3 ms to scan 1 urls, producing 4 keys and 16 values 
+11:35:53.944 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mdcj/codenation/java-9/target/classes/
+11:35:53.962 [main] INFO org.reflections.Reflections - Reflections took 17 ms to scan 1 urls, producing 4 keys and 16 values 
+11:35:53.965 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mdcj/codenation/java-9/target/classes/
+11:35:53.971 [main] INFO org.reflections.Reflections - Reflections took 6 ms to scan 1 urls, producing 4 keys and 16 values 
+11:35:53.973 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mdcj/codenation/java-9/target/classes/
+11:35:53.977 [main] INFO org.reflections.Reflections - Reflections took 3 ms to scan 1 urls, producing 4 keys and 16 values 
+11:35:53.980 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mdcj/codenation/java-9/target/classes/
+11:35:53.984 [main] INFO org.reflections.Reflections - Reflections took 3 ms to scan 1 urls, producing 4 keys and 16 values 
+11:35:53.991 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mdcj/codenation/java-9/target/classes/
+11:35:53.993 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 16 values 
+11:35:53.995 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mdcj/codenation/java-9/target/classes/
+11:35:53.999 [main] INFO org.reflections.Reflections - Reflections took 4 ms to scan 1 urls, producing 4 keys and 16 values 
+11:35:54.001 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mdcj/codenation/java-9/target/classes/
+11:35:54.003 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 16 values 
+11:35:54.012 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mdcj/codenation/java-9/target/classes/
+11:35:54.015 [main] INFO org.reflections.Reflections - Reflections took 3 ms to scan 1 urls, producing 4 keys and 16 values 
+11:35:54.019 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mdcj/codenation/java-9/target/classes/
+11:35:54.021 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 16 values 
+11:35:54.026 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mdcj/codenation/java-9/target/classes/
+11:35:54.036 [main] INFO org.reflections.Reflections - Reflections took 10 ms to scan 1 urls, producing 4 keys and 16 values 
+11:35:54.040 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mdcj/codenation/java-9/target/classes/
+11:35:54.042 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 16 values 
+11:35:54.044 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mdcj/codenation/java-9/target/classes/
+11:35:54.046 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 16 values 
+11:35:54.048 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mdcj/codenation/java-9/target/classes/
+11:35:54.050 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+11:35:54.055 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mdcj/codenation/java-9/target/classes/
+11:35:54.057 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 16 values 
+11:35:54.059 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mdcj/codenation/java-9/target/classes/
+11:35:54.063 [main] INFO org.reflections.Reflections - Reflections took 3 ms to scan 1 urls, producing 4 keys and 16 values 
+11:35:54.066 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mdcj/codenation/java-9/target/classes/
+11:35:54.068 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 16 values 
+11:35:54.084 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mdcj/codenation/java-9/target/classes/
+11:35:54.086 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 16 values 
+11:35:54.087 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mdcj/codenation/java-9/target/classes/
+11:35:54.089 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 16 values 
+11:35:54.093 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mdcj/codenation/java-9/target/classes/
+11:35:54.094 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+11:35:54.096 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mdcj/codenation/java-9/target/classes/
+11:35:54.103 [main] INFO org.reflections.Reflections - Reflections took 7 ms to scan 1 urls, producing 4 keys and 16 values 
+11:35:54.106 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mdcj/codenation/java-9/target/classes/
+11:35:54.108 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+11:35:54.112 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mdcj/codenation/java-9/target/classes/
+11:35:54.119 [main] INFO org.reflections.Reflections - Reflections took 7 ms to scan 1 urls, producing 4 keys and 16 values 
+11:35:54.124 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mdcj/codenation/java-9/target/classes/
+11:35:54.128 [main] INFO org.reflections.Reflections - Reflections took 3 ms to scan 1 urls, producing 4 keys and 16 values 
+11:35:54.129 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mdcj/codenation/java-9/target/classes/
+11:35:54.130 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+11:35:54.132 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mdcj/codenation/java-9/target/classes/
+11:35:54.133 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+11:35:54.135 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mdcj/codenation/java-9/target/classes/
+11:35:54.137 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+11:35:54.138 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mdcj/codenation/java-9/target/classes/
+11:35:54.142 [main] INFO org.reflections.Reflections - Reflections took 4 ms to scan 1 urls, producing 4 keys and 16 values 
+11:35:54.144 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mdcj/codenation/java-9/target/classes/
+11:35:54.148 [main] INFO org.reflections.Reflections - Reflections took 3 ms to scan 1 urls, producing 4 keys and 16 values 
+11:35:54.150 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mdcj/codenation/java-9/target/classes/
+11:35:54.153 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 16 values 
+11:35:54.155 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mdcj/codenation/java-9/target/classes/
+11:35:54.157 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 16 values 
+11:35:54.160 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mdcj/codenation/java-9/target/classes/
+11:35:54.162 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 16 values 
+11:35:54.164 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mdcj/codenation/java-9/target/classes/
+11:35:54.166 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 16 values 
+11:35:54.171 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mdcj/codenation/java-9/target/classes/
+11:35:54.173 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+11:35:54.174 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mdcj/codenation/java-9/target/classes/
+11:35:54.175 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+11:35:54.180 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mdcj/codenation/java-9/target/classes/
+11:35:54.182 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+11:35:54.184 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mdcj/codenation/java-9/target/classes/
+11:35:54.185 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+11:35:54.187 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mdcj/codenation/java-9/target/classes/
+11:35:54.190 [main] INFO org.reflections.Reflections - Reflections took 3 ms to scan 1 urls, producing 4 keys and 16 values 
+11:35:54.192 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mdcj/codenation/java-9/target/classes/
+11:35:54.193 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+11:35:54.194 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mdcj/codenation/java-9/target/classes/
+11:35:54.195 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+11:35:54.197 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mdcj/codenation/java-9/target/classes/
+11:35:54.198 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+11:35:54.200 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mdcj/codenation/java-9/target/classes/
+11:35:54.201 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+11:35:54.205 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mdcj/codenation/java-9/target/classes/
+11:35:54.206 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+11:35:54.207 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mdcj/codenation/java-9/target/classes/
+11:35:54.209 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+11:35:54.210 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mdcj/codenation/java-9/target/classes/
+11:35:54.211 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+11:35:54.212 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mdcj/codenation/java-9/target/classes/
+11:35:54.213 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+11:35:54.215 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mdcj/codenation/java-9/target/classes/
+11:35:54.221 [main] INFO org.reflections.Reflections - Reflections took 6 ms to scan 1 urls, producing 4 keys and 16 values 
+11:35:54.222 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mdcj/codenation/java-9/target/classes/
+11:35:54.224 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 16 values 
+11:35:54.225 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mdcj/codenation/java-9/target/classes/
+11:35:54.227 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 16 values 
+11:35:54.228 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mdcj/codenation/java-9/target/classes/
+11:35:54.229 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+11:35:54.231 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mdcj/codenation/java-9/target/classes/
+11:35:54.232 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+11:35:54.233 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mdcj/codenation/java-9/target/classes/
+11:35:54.235 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+11:35:54.236 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mdcj/codenation/java-9/target/classes/
+11:35:54.238 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+11:35:54.239 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mdcj/codenation/java-9/target/classes/
+11:35:54.240 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+11:35:54.241 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mdcj/codenation/java-9/target/classes/
+11:35:54.243 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 16 values 
+11:35:54.247 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mdcj/codenation/java-9/target/classes/
+11:35:54.249 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+11:35:54.250 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mdcj/codenation/java-9/target/classes/
+11:35:54.252 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 16 values 
+11:35:54.254 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mdcj/codenation/java-9/target/classes/
+11:35:54.255 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+11:35:54.257 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mdcj/codenation/java-9/target/classes/
+11:35:54.258 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+11:35:54.261 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mdcj/codenation/java-9/target/classes/
+11:35:54.263 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+11:35:54.264 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mdcj/codenation/java-9/target/classes/
+11:35:54.266 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 16 values 
+11:35:54.267 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mdcj/codenation/java-9/target/classes/
+11:35:54.269 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 16 values 
+11:35:54.270 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mdcj/codenation/java-9/target/classes/
+11:35:54.272 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 16 values 
+11:35:54.273 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mdcj/codenation/java-9/target/classes/
+11:35:54.279 [main] INFO org.reflections.Reflections - Reflections took 5 ms to scan 1 urls, producing 4 keys and 16 values 
+11:35:54.280 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mdcj/codenation/java-9/target/classes/
+11:35:54.281 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+11:35:54.282 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mdcj/codenation/java-9/target/classes/
+11:35:54.284 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+11:35:54.285 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mdcj/codenation/java-9/target/classes/
+11:35:54.286 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+11:35:54.288 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mdcj/codenation/java-9/target/classes/
+11:35:54.289 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+11:35:54.290 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mdcj/codenation/java-9/target/classes/
+11:35:54.291 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+11:35:54.293 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mdcj/codenation/java-9/target/classes/
+11:35:54.294 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+11:35:54.295 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mdcj/codenation/java-9/target/classes/
+11:35:54.298 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 16 values 
+11:35:54.299 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mdcj/codenation/java-9/target/classes/
+11:35:54.300 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+11:35:54.312 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mdcj/codenation/java-9/target/classes/
+11:35:54.314 [main] INFO org.reflections.Reflections - Reflections took 0 ms to scan 1 urls, producing 4 keys and 16 values 
+11:35:54.316 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mdcj/codenation/java-9/target/classes/
+11:35:54.317 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+11:35:54.320 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mdcj/codenation/java-9/target/classes/
+11:35:54.321 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+11:35:54.323 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mdcj/codenation/java-9/target/classes/
+11:35:54.324 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+11:35:54.327 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mdcj/codenation/java-9/target/classes/
+11:35:54.331 [main] INFO org.reflections.Reflections - Reflections took 4 ms to scan 1 urls, producing 4 keys and 16 values 
+11:35:54.332 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mdcj/codenation/java-9/target/classes/
+11:35:54.336 [main] INFO org.reflections.Reflections - Reflections took 3 ms to scan 1 urls, producing 4 keys and 16 values 
+11:35:54.339 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mdcj/codenation/java-9/target/classes/
+11:35:54.342 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+11:35:54.346 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mdcj/codenation/java-9/target/classes/
+11:35:54.348 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+11:35:54.350 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mdcj/codenation/java-9/target/classes/
+11:35:54.352 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+11:35:54.354 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mdcj/codenation/java-9/target/classes/
+11:35:54.357 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 16 values 
+11:35:54.361 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mdcj/codenation/java-9/target/classes/
+11:35:54.363 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+11:35:54.364 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mdcj/codenation/java-9/target/classes/
+11:35:54.365 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+11:35:54.367 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mdcj/codenation/java-9/target/classes/
+11:35:54.369 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+11:35:54.371 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mdcj/codenation/java-9/target/classes/
+11:35:54.372 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+11:35:54.374 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mdcj/codenation/java-9/target/classes/
+11:35:54.375 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+11:35:54.378 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mdcj/codenation/java-9/target/classes/
+11:35:54.380 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+11:35:54.383 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mdcj/codenation/java-9/target/classes/
+11:35:54.385 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+11:35:54.386 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mdcj/codenation/java-9/target/classes/
+11:35:54.388 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+11:35:54.391 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mdcj/codenation/java-9/target/classes/
+11:35:54.393 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+11:35:54.396 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mdcj/codenation/java-9/target/classes/
+11:35:54.402 [main] INFO org.reflections.Reflections - Reflections took 6 ms to scan 1 urls, producing 4 keys and 16 values 
+11:35:54.403 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mdcj/codenation/java-9/target/classes/
+11:35:54.404 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+11:35:54.405 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mdcj/codenation/java-9/target/classes/
+11:35:54.410 [main] INFO org.reflections.Reflections - Reflections took 5 ms to scan 1 urls, producing 4 keys and 16 values 
+11:35:54.412 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mdcj/codenation/java-9/target/classes/
+11:35:54.413 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+11:35:54.414 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mdcj/codenation/java-9/target/classes/
+11:35:54.416 [main] INFO org.reflections.Reflections - Reflections took 0 ms to scan 1 urls, producing 4 keys and 16 values 
+11:35:54.417 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mdcj/codenation/java-9/target/classes/
+11:35:54.418 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+[INFO] Tests run: 102, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.887 s - in com.challenge.suite.ChallengeTestSuite
+[INFO] 
+[INFO] Results:
+[INFO] 
+[INFO] Tests run: 102, Failures: 0, Errors: 0, Skipped: 0
+[INFO] 
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  7.007 s
+[INFO] Finished at: 2020-05-09T11:35:54-03:00
+[INFO] ------------------------------------------------------------------------

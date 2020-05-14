@@ -48,7 +48,7 @@ public class User {
 
     @Column
     @CreatedDate
-    private LocalDateTime createdAt;
+    private LocalDateTime createdAt = LocalDateTime.now();
 
     @OneToMany(mappedBy = "id.user")
     private List<Candidate> candidates;

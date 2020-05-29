@@ -7,7 +7,7 @@ https://www.codenation.dev/
 
 ## Como utilizar
 
-Fique à vontade para sugerir melhorias nos códigos do projeto.
+Basta copiar o repositório e executar o arquivo. Fique à vontade para sugerir melhorias nos códigos dos desafios.
 
 ### Pré-requisitos
 

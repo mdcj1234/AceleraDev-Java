@@ -1,4 +1,4 @@
-# Codenation Java
+# AceleraDev Java
 
 Esse repositório armazena os códigos dos desafios feitos em Java durante o meu desenvolvimento na aceleração da Codenation.
 
